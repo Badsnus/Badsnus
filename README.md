@@ -6,6 +6,12 @@ Telegram - [@badsnus](https://t.me/badsnus)
 
 Mail - badsnus@mail.ru
 
+## Skills 
+
+1) Языки программирования: python, sql, html + css + js
+2) Технологии и фреймворки: Django + drf, Fastapi, aiogram, SQLAlchemy, aiohttp, asyncpg, requests, vkapi, selenium и пр.
+3) Базы данных: PostgreSQL, SQLite
+
 ## Projects
 
 ### Elon shop
