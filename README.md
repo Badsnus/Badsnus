@@ -37,7 +37,7 @@ Cтек: python + aiogram 2.22 + SQLAlchemy
 REST API для создание ссылок нужного размера и просмотра статистики переходов
 по ним
 
-Cтек: python + django 3.2 + django rest framework
+Cтек: python + django + django rest framework
 
 Ссылка: https://github.com/Badsnus/LinkerX
 <hr />
