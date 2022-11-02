@@ -11,7 +11,7 @@ Mail - badsnus@mail.ru
 1) Языки программирования: python, sql, html + css + js
 2) Технологии и фреймворки: Django + drf, Fastapi, aiogram, SQLAlchemy, aiohttp, asyncpg, pickle, requests, vkapi, selenium и пр.
 3) Базы данных: PostgreSQL, SQLite
-4) Прочие тенхологии: git
+4) Другие технологии: git, умение пользоваться linux, nginx
 
 ## Projects
 
