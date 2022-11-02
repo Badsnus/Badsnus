@@ -43,6 +43,15 @@ Cтек: python + django + django rest framework
 Ссылка: https://github.com/Badsnus/LinkerX
 <hr />
 
+### Random_api_generator
+
+Rest api проект для получение рандомных данных. 
+
+Cтек: python + fastapi + asyncpg + pickle
+
+Ссылка: https://github.com/Badsnus/Random_api_generator
+<hr />
+
 ### TEST TASK ETHEREUM BOT
 
 Небольшой телеграмм бот
