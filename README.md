@@ -2,7 +2,7 @@
 
 ## Contacts
 
-Telegram - [@badsnus](https://t.me/badsnus)
+Telegram - https://t.me/balovvv
 
 Mail - balov_anton@mail.ru
 
